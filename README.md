@@ -1,1 +1,1 @@
-### Hi there 👋 I’m currently learning software testing. And i looking for a job 👀
+### Hi there 👋 I’m currently learning software testing. And i`m looking for a job 👀
