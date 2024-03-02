@@ -1,1 +1,1 @@
-### Hi there 👋 I’m currently learning software testing.
+### Hi there 👋 I’m currently learning Kafka Connect.
