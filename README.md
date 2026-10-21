@@ -1,2 +1,1 @@
-I hate conformists. I believe that real knowledge comes with experimentation. <br>
-![](a.gif)
+I love developing software, money and freedom.
